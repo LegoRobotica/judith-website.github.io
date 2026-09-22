@@ -1,0 +1,56 @@
+body{
+background-color: whitesmoke;
+margin-left: 2cm;
+margin-top: 2cm;
+}
+
+
+#book{
+      margin-top: -5cm;
+     margin-left: 6cm;
+}
+#choose{
+     margin-top: 19cm;
+     margin-left: 6.6cm;
+}
+
+#select{  
+    margin-top: 0.5cm;
+     margin-left: 6.cm;
+     background-color: lightgray;
+}
+
+
+
+.selecto{
+      margin-top: 9.5cm;
+     margin-left: 6.17cm;
+}
+
+#date{
+margin-top: 0.5cm;
+margin-left:6.2cm;
+}
+
+#datepicker{
+margin-top: 0.5cm;
+     margin-left:-0.cm;
+}
+.t1{
+
+     margin-top:0cm;
+     margin-left: 7.2cm;}  
+
+
+#message{
+     margin-left: 6cm;
+}
+#email{ margin-left: 0.7cm;
+
+}
+button{
+        color:dodgerblue;
+        font-family: 'Times New Roman', Times, serif;
+         font-size: 14;
+        }
+button:hover{background-color: light-gray;}
